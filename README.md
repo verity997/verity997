@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @verity997
 - 👀 I’m interested in Discord Java Bot programming.
 - 🌱 I’m currently learning Java!
-- 💞️ I’m looking to collaborate on Discord.
+- 📚 I'm preparing for Craftsman Information Processing.
 - 📫 How to reach me :: Discord 베리티#1469 | KakaoTalk verity997
 
 <!---
